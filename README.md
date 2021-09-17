@@ -1,3 +1,5 @@
+Project Team Members: Danny Geisz
+
 # 3308-lab3
 Project Team Members:
 Oliver
